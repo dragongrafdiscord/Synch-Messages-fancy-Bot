@@ -1,5 +1,5 @@
 
-# Synch Messages Bot
+# Synch Messages Bot but Fancy
 
 This bot syncs messages (including images, GIFs, and videos) from one channel to another using Discord webhooks.
 
