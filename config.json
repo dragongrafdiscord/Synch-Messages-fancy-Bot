@@ -1,0 +1,10 @@
+{
+    "bot_token": "Insert_Bot_Token",
+    "channel_pairs": {
+        "1234": "5678"
+    },
+    "whitelist": [
+        1234567
+    ],
+    "webhook_storage": "channel_webhooks.json"
+}
